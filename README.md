@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Lusia-Kaushiningwa/Lusia-Kaushiningwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Informatics Graduate
+- 💻 Interested in Web Development & System Integration
+- 🌍 Based in Namibia
 
-Here are some ideas to get you started:
+## Skills
+- Frontend: HTML, CSS, JavaScript (React – in progress)
+- Backend: Node.js / Express (learning)
+- Databases: PostgreSQL, MySQL
+- Data & Analytics: Excel, Power BI
+- APIs: REST API fundamentals
+- Tools: Git, GitHub, VS Code
+- Other: Data Analysis, Reporting, IT Support, System Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔗 [My Portfolio](#)
+- 🔗 [Task Manager App](#)
+
+## Contact Me
+- 📧 lusia.kaushiningwa@gmail.com
+
+
+**##Certificates**
+📜 Bachelor Degree Of Informatics - NUST
+📜 Certificate in Data Analysis - UCT
+📜 Certificate in Women in Leadership - Stellenbosch Business School 
+🎓 Full-Stack Development – Code Blossom (In Progress)
+
+**#🌟 Key Strengths**
+- Problem-solving & analytical thinking
+- Strong communication & training (ICT Trainer experience)
+- Attention to detail & data accuracy
+- Fast learner & adaptable
+- Passion for technology and continuous improvement
+
+
+💡 Informatics graduate with 5+ years of experience in data, reporting, and Information systems. Currently building full-stack development skills and passionate about turning data into meaningful solutions.

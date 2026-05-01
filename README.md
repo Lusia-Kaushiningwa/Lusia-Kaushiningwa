@@ -24,10 +24,10 @@
 
 ## Certificates
 
-📜 Bachelor Degree Of Informatics - NUST
-📜 Certificate in Data Analysis - UCT
-📜 Certificate in Women in Leadership - Stellenbosch Business School 
-🎓 Full-Stack Development – Code Blossom (In Progress)
+- Bachelor Degree Of Informatics - NUST
+- Certificate in Data Analysis - UCT
+- Certificate in Women in Leadership - Stellenbosch Business School 
+- Full-Stack Development – Code Blossom (In Progress)
 
 ## Key Stregth
 
